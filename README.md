@@ -337,3 +337,14 @@ This repository showcases Naya Prayog Technologies' food delivery app developmen
 For customisation, pricing, implementation, or project enquiries, contact our team.
 
 **Note:** This repository is a proprietary service and solution showcase. It does not grant permission to redistribute, resell, or commercially use Naya Prayog Technologies' proprietary materials or intellectual property.
+
+<!-- screenshots -->
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Home</b><br><br><img src="screenshots/1-home.png" alt="Home" width="240"></td>
+    <td align="center"><b>Live Order Tracking</b><br><br><img src="screenshots/2-track-order.png" alt="Live Order Tracking" width="240"></td>
+    <td align="center"><b>Restaurant Menu</b><br><br><img src="screenshots/3-restaurant.png" alt="Restaurant Menu" width="240"></td>
+  </tr>
+</table>
